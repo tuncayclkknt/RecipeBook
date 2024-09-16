@@ -2,7 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content"
+    android:background="@xml/border"
+    android:layout_margin="5dp">
 
     <TextView
         android:id="@+id/recyclerViewText"
@@ -11,6 +13,8 @@
         android:layout_margin="10sp"
         android:text="Test"
         android:textSize="24sp"
+        android:layout_marginHorizontal="15sp"
+        android:layout_marginVertical="30sp"
         />
 
 </LinearLayout>

@@ -25,6 +25,9 @@
         <argument
             android:name="info"
             app:argType="boolean" />
+        <action
+            android:id="@+id/action_recipeFragment_to_listFragment"
+            app:destination="@id/listFragment" />
     </fragment>
     <argument
         android:name="info"
