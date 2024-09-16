@@ -1,4 +1,4 @@
-package com.tuncay.recipebook
+package com.tuncay.recipebook.view
 
 import android.Manifest
 import android.content.Intent

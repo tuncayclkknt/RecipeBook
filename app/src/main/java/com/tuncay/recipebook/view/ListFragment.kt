@@ -1,11 +1,10 @@
-package com.tuncay.recipebook
+package com.tuncay.recipebook.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.fragment.app.ListFragment
 import androidx.navigation.Navigation
 import com.tuncay.recipebook.databinding.FragmentListBinding
 
